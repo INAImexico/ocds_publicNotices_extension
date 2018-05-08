@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Public notices"
+  },
+  "description": {
+    "en": "In Mexico it is needed to publish information related with works detailing closure of streets, change of traffic, etc."
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/INAImexico/ocds_publicNotices_extension"
+  },
+  "codelists": [
+    "+milestoneType.csv",
+  ]
+}
