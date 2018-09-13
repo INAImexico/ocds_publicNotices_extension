@@ -12,6 +12,6 @@
     "en": "https://github.com/INAImexico/ocds_publicNotices_extension"
   },
   "codelists": [
-    "+milestoneType.csv",
+    "+milestoneType.csv"
   ]
 }
